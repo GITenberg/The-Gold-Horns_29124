@@ -1,0 +1,55 @@
+_repo: The-Gold-Horns_29124
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oehlenschläger, Adam
+    aliases:
+    - Oehlenschlæger, Adam
+    - Oehlenschläger, Adam Gottlob
+    - Oehlenschläger, A. (Adam)
+    - Oehlenschlager, Adam
+    birthdate: 1779
+    deathdate: 1850
+    gutenberg_agent_id: '8794'
+    url: http://www.gutenberg.org/2009/agents/8794
+    wikipedia: http://en.wikipedia.org/wiki/Adam_Gottlob_Oehlenschl%C3%A4ger
+  editor:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: 'Translation of: Guldhornene'
+gutenberg_issued: '2009-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29124'
+  lccn: '84237945'
+language:
+- en
+- da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish poetry -- Translations into English'
+- !lcsh 'Danish poetry'
+title: The Gold Horns
+url: http://www.gutenberg.org/ebooks/29124
